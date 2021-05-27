@@ -1,0 +1,5 @@
+maandelijks 3 jokers
+tijd bijhouden van wanneer gestopt of verminderd
+tijd bijhouden van laatste joker
+kan meer jokers in de maand maar aftrek jokers volgende maand
+kan inloggen met gebruikersnaam en wachtwoord
